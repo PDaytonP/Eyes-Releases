@@ -1,0 +1,18 @@
+{
+  "EYES_BASIC": {
+    "version": "1.0",
+    "bin": "eyes_basic_v1.0.bin"
+  },
+  "EYES_MOUTH": {
+    "version": "1.2",
+    "bin": "eyes_mouth_v1.2.bin"
+  },
+  "EYES_FULLFACE": {
+    "version": "2.0",
+    "bin": "eyes_fullface_v2.0.bin"
+  },  
+  "EYES_FullVersion": {
+    "version": "A.1",
+    "bin": "Eyes_FullVersion_vA.1.bin"
+  }
+}
