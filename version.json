@@ -14,5 +14,9 @@
   "EYES_FullVersion": {
     "version": "B.0",
     "bin": "Eyes_FullVersion_vB.0.bin"
+  },
+  "EYES_HtmlVersion": {
+    "version": "B.0",
+    "bin": "Eyes_HtmlVersion_vB.0.bin"
   }
 }
